@@ -55,3 +55,6 @@ The file `mec.yml` contains all the dependancies and version numbers required to
 
 ## Pubication Data
 Data such as the original input files, simulation results and analysis are stored in a Zenodo repository at doi: 10.5281/zenodo.17307295
+
+The accompanying manuscript can be cited as 
+> Donald Coon, Chiara Amitrano, Bruce Bugbee, Ziynet Boz, Ying Zhang, Gerardo H Nunez, Melanie Correll, Rafael Muñoz-Carpena, Ana Martin-Ryals, Performance and Sensitivity of the Energy Cascade Models for Lettuce Production in Bioregenerative Life Support Systems, in silico Plants, 2026;, diag011, https://doi.org/10.1093/insilicoplants/diag011
